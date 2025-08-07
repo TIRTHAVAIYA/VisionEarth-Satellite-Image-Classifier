@@ -1,0 +1,7 @@
+tensorflow
+tensorflow-datasets
+gradio
+numpy
+matplotlib
+seaborn
+scikit-learn
